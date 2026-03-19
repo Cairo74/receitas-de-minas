@@ -1,2 +1,2 @@
-# receitas-de-minas
-Sistema web para gerenciar receitas.
+# receitas-de-minas-lourdes-noite-g2
+Sistema web para gerenciar receitas
